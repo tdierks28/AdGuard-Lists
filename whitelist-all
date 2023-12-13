@@ -31,6 +31,9 @@
 @@|uts-api-cdn.itunes-apple.com.akadns.net^$important
 @@|widget-cdn.rpxnow.com^$important
 
+# Printer & Scanner
+@@|toshiba.co.jp^$important
+
 # Aliexpress
 @@|ae01.alicdn.com^$important
 @@|campaign.aliexpress.com^$important
@@ -501,6 +504,10 @@
 # Napster
 @@|napster.com^$important
 
+# Netatmo
+@@|api.netatmo.com^$important
+@@|nv2-namain-deco.netatmo.net^$important
+
 # Netflix
 @@|api-global.netflix.com^$important
 @@|appboot.netflix.com^$important
@@ -560,6 +567,13 @@
 @@|paypal.com^$important
 @@|paypalobjects.com^$important
 @@|t.paypal.com^$important
+
+# Philips hue
+@@|diag.meethue.com^$important
+@@|data.meethue.com^$important
+@@|diagnostics.meethue.com^$important
+@@|ws.meethue.com^$important
+@@|discovery.meethue.com^$important
 
 # Placehold.it
 @@|placehold.it^$important
@@ -626,6 +640,10 @@
 
 # Saturn
 @@|service-my.saturn.de^$important
+
+# Shelly
+@@|shelly-66-eu.shelly.cloud^$important
+@@|updates.shelly.cloud^$important
 
 # Shoop
 @@|shoop.de^$important
