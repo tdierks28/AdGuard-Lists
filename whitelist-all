@@ -644,6 +644,7 @@
 # Shelly
 @@|shelly-66-eu.shelly.cloud^$important
 @@|updates.shelly.cloud^$important
+@@|home.shelly.cloud^$important
 
 # Shoop
 @@|shoop.de^$important
