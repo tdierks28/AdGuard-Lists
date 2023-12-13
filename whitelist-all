@@ -89,6 +89,9 @@
 @@|primevideo.com^$important
 @@|s3.amazonaws.com^$important
 
+# Android
+
+
 # Apple
 @@|apple-dns.net^$important
 @@|apple.com^$important
@@ -176,6 +179,9 @@
 @@|user-profile.ar.indazn.com^$important
 @@|youth-protect.discovery.indazn.com^$important
 
+# DHL
+@@|mailing3.dhl.de^$important
+
 # Debian
 @@|debian.org^$important
 
@@ -213,6 +219,7 @@
 
 # DPD
 @@|tracking.dpd.de^$important
+@@|my.dpd.de^$important
 
 # Dresden Elektronik / Phoscon
 @@|dresden-elektronik.de^$important
