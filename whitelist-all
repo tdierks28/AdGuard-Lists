@@ -1,2 +1,11 @@
-# Basic Whiteflist for AdGuard
+# Basic Whitelist for AdGuard Home
+
+# Apple
 ||apple.com
+||icloud.com
+
+# Microsoft
+||microsoft.com
+
+# Telekommunikation
+||telekom.de
