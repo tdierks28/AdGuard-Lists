@@ -1,11 +1,25 @@
-# Urls from recieved mails
+## Urls from recieved mails
+# Manually maintained list
+
+# Regex
+/conaydenk/.html^
+/apotheke/.html^
+
 ||smartverschickt.nl^
 ||fabricadeclabuc.ro^
 ||sicheronlineversand.nl^
 
+# Computer
+
+# Erotik, Partner & Co
+||kontakt-partner.de^
+
 # finance
 ||bitcoinmillionaer.nl^
 ||profitbitcoinmethode.nl^
+||spar-mehr.com^
+
+# Gewinnspiele
 
 # health Links aus Mails
 ||apothekediskretonline.nl^
@@ -17,6 +31,12 @@
 ||devave.homes^
 ||toplogistics.com.ph^
 ||alfreds.gay^
+
+# Spirituosen und Aklohol
+||myitec-dialog.de^
+
+# Vergleichsportale
+||premiumperformance-mail.de
 
 # Diverse
 ||athimax.yachts^
@@ -30,8 +50,6 @@
 ||maisonmodeldangkor.com^
 ||delunave.homes^
 ||alfarte.de^
-||spar-mehr.com^
 ||zohoinsights.com.au^
 ||ihvivpz@nowastells.nl^
 
-# apotheken regex /apotheke/.html^
