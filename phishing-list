@@ -4,12 +4,16 @@
 # Regex
 /conaydenk/.html^
 /apotheke/.html^
+/track-url/
+/campaigns/
 
 ||smartverschickt.nl^
 ||fabricadeclabuc.ro^
 ||sicheronlineversand.nl^
 
 # Computer
+||vozentervirtual.com^
+||carlosrecomienda.com
 
 # Erotik, Partner & Co
 ||kontakt-partner.de^
@@ -35,6 +39,9 @@
 # Spirituosen und Aklohol
 ||myitec-dialog.de^
 
+# Travel & Reisen
+||hyperionya.eu^
+
 # Vergleichsportale
 ||premiumperformance-mail.de
 
@@ -52,4 +59,4 @@
 ||alfarte.de^
 ||zohoinsights.com.au^
 ||ihvivpz@nowastells.nl^
-
+||correounico.com^
