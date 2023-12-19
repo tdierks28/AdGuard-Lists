@@ -2,9 +2,9 @@
 # Manually maintained list
 
 # Regex
-/conaydenk/.html^
-/apotheke/.html^
-/track-url/
+/conaydenk\.html/
+/apotheke\.html/
+/track\-url/
 /campaigns/
 
 ||smartverschickt.nl^
