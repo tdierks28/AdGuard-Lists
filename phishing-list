@@ -6,6 +6,7 @@
 /apotheke\.html/
 /track\-url/
 /campaigns/
+/storage\.googleapis\.com/*.html\#/
 
 ||smartverschickt.nl^
 ||fabricadeclabuc.ro^
@@ -24,8 +25,12 @@
 ||profitbitcoinmethode.nl^
 ||spar-mehr.com^
 ||cutt.ly^
+||weltsparer-online.de^
 
 # Gewinnspiele
+||lottonews-service.com^
+||ma-dialog.de^
+||terminal24-ltd.com^
 
 # health Links aus Mails
 ||apothekediskretonline.nl^
