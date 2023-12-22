@@ -91,7 +91,6 @@
 
 # Android
 
-
 # Apple
 @@|apple-dns.net^$important
 @@|apple.com^$important
@@ -106,12 +105,15 @@
 @@|mzstatic.com^$important
 @@|ocsp.apple.com^$important
 @@|play.itunes.apple.com.edgesuite.net^$important
+@@|valid-apple.g.aaplimg.com^$important
+@@|ocsp2.g.aaplimg.com^$important
 
 # Avantgate
 @@|secure.avangate.com^$important
 
 # AVM
 @@|myfritz.net^$important
+@@|avm.de^$important
 
 # Bauhaus
 @@|media.bahag.cloud^$important
