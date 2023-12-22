@@ -6,7 +6,7 @@
 /apotheke\.html/
 /track\-url/
 /campaigns/
-/storage\.googleapis\.com/*.html\#/
+/.*storage\.googleapis\.com\/.*\.html\#\/.*/
 
 ||smartverschickt.nl^
 ||fabricadeclabuc.ro^
