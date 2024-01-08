@@ -1,6 +1,12 @@
 ## Urls from recieved mails
 # Manually maintained list
 
+# tld Filter
+||*.top^
+||*.zip^
+||*.exe^
+||*.jp^
+
 # Regex
 /conaydenk\.html/
 /apotheke\.html/
