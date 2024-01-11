@@ -6,10 +6,12 @@
 # Regex
 /conaydenk\.html/
 /apotheke\.html/
+/bitcoin\.html/
 /track\-url/
 /campaigns/
 /spagetlink.*/
 /.*storage\.googleapis\.com\/.*\.html\#\/.*/
+
 #@194.53.136.251//////4
 
 ||smartverschickt.nl^
@@ -48,6 +50,7 @@
 ||ibexportindia.com^
 ||systemzumreichtum.nl^
 ||balimemorialtrust.org^
+||pfnetworkschools.org^
 
 # Gewinnspiele
 ||lottonews-service.com^
