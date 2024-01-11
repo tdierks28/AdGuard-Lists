@@ -1,4 +1,4 @@
-## Urls from recieved mails
+## Urls from recieved mails ect.
 # Manually maintained list
 # please comment if you have some trouble with this list
 
@@ -7,6 +7,7 @@
 /apotheke\.html/
 /track\-url/
 /campaigns/
+/spagetlink.*/
 /.*storage\.googleapis\.com\/.*\.html\#\/.*/
 #@194.53.136.251//////4
 
@@ -24,12 +25,14 @@
 ||apl-2go.net^
 ||dashsmails.com^
 ||FDkuJwDLniroIKpNSQFokaoreXgQgeoefeKoyBsgEdTcKsGRXVfzHTtNeMJeAzlFsCKFIxyhaeWYUBpDtXwneOkhFcepWafsdqdSrSNdwatWZVjoLwySizsPnozmqWOnEeLazorxLFLbDphrtEFYDKYMVEwFOUxgqjoKmgbxbpMrzzWhZJMmEtoSJSTeOUWMVPXYHbeM.com
+||tareeqalghaith.com^
 
 # Erotik, Partner & Co
 ||kontakt-partner.de^
 ||alfreds.gay^
 ||messe-event-bau.de^
-||fageron.ink
+||fageron.ink^
+||alfreds.gay^
 
 # Finance
 ||bitcoinmillionaer.nl^
@@ -43,6 +46,7 @@
 ||creditformerchants.com^
 ||ibexportindia.com^
 ||systemzumreichtum.nl^
+||balimemorialtrust.org^
 
 # Gewinnspiele
 ||lottonews-service.com^
@@ -93,6 +97,8 @@
 ||crm.shipboltindustries.com^
 ||ostemesteren.dk^
 ||urbanmeals.in^
+||ecuawagen.com^
+||detunex.homes^
 
 # Real Estate, Immo
 ||rs6.net^
