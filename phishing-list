@@ -10,6 +10,7 @@
 /track\-url/
 /campaigns/
 /spagetlink.*/
+/firstbestshop[0-9]/
 /.*storage\.googleapis\.com\/.*\.html\#\/.*/
 
 ||194.53.136.251
@@ -24,7 +25,7 @@
 ||my-apo-business-news.eu^
 ||cpanel.clickserz.de^
 ||sparkpostmail1.com^
-
+||poldage.dlugoleka.pl^
 
 # Computer
 ||vozentervirtual.com^
@@ -48,6 +49,8 @@
 ||fageron.ink^
 ||alfreds.gay^
 ||gate2stars.info^
+||eshasisrefi.tk^
+||flatacmelire.tk^
 
 # Finance
 ||bitcoinmillionaer.nl^
@@ -125,6 +128,7 @@
 ||devave.homes^
 ||sakoonhomes.com.au^
 ||edled.mx^
+||collect.com.tr^
 
 # Real Estate, Immo
 ||rs6.net^
@@ -154,7 +158,7 @@
 # Url kürzer
 ||bit.ly^
 ||shorturl.asia^
-||cutt.ly
+||cutt.ly^
 
 # Diverse
 ||nrc.no^
@@ -180,7 +184,7 @@
 ||tropical.com^
 ||secureclick.net^
 ||strictlydigital.net^
-|postbankbestsign-app.46-30-203-159.plesk.page^
+||postbankbestsign-app.46-30-203-159.plesk.page^
 ||cursosformalba.es^
 ||cozyroads.com^
 ||othereasons.com^
