@@ -5,7 +5,7 @@
 
 # Regex
 /conaydenk\.html/
-/apotheke\.html/
+/apotheke\.(html|php)/
 /bitcoin\.html/
 /redirect\.html/
 /track\-url/
@@ -136,6 +136,7 @@
 ||romaneumaticos.com.ar^
 ||funapotheke.nl^
 ||rebrand.ly^
+||ibaartravel.so^
 
 # Real Estate, Immo
 ||rs6.net^
