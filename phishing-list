@@ -13,6 +13,8 @@
 /spagetlink.*/
 /firstbestshop[0-9]/
 /.*storage\.googleapis\.com\/.*\.html\#\/.*/
+/(^|-)?pillen.*/
+/(^|-)?(kredit|finanz).*/
 
 ||194.53.136.251
 
@@ -178,6 +180,7 @@
 ||bit.ly^
 ||shorturl.asia^
 ||cutt.ly^
+||tyniurl.com^
 
 # Diverse
 ||nrc.no^
@@ -214,3 +217,15 @@
 ||s3.fr-par.scw.cloud^
 ||promo44-info.de^
 ||mera-tagesthemen.de^
+||detocar.org.es^
+||gallesare.de^
+||alfreds.gay^
+||wornwersder.de^
+||websteriletechnologies.com^
+||aj2563.bid^
+||othereasons.com^
+||promotrader2020.com^
+||promos.soficat.es^
+||cucinaelegante.com^
+||palmscaribbean.com^
+||00yk9.mjt.lu^
