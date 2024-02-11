@@ -146,8 +146,9 @@
 # cloudinary
 @@|res.cloudinary.com^$important
 
-# Coinbase
+# Coinbase & Co.
 @@|coinbase.com^$important
+@@||email.onetrading.com^$important
 
 # Congstar
 @@|app.congstar.de^$important
