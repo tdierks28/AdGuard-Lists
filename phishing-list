@@ -10,7 +10,7 @@
 /redirect\.html/
 /track\-url/
 /campaigns/
-/spagetlink.*/
+/spagetlink*/
 /firstbestshop[0-9]/
 /.*storage\.googleapis\.com\/.*\.html\#\/.*/
 /(^|-)?pillen.*/
@@ -92,6 +92,8 @@
 ||saltimbancoitaliano.com^
 ||neuelebenschance.de^
 ||ihr-neuer-reichtum.nl^
+||banken-empfehlung.nl^
+||bitcoin-rausch.nl^
 
 # Cloud
 ||churchaea.stream^
@@ -185,6 +187,8 @@
 ||passives-einkommen.nl^
 ||computerrepairgreeneville.com^
 ||dedoka.homes^
+||apothekerbestellung.nl
+||disav.yachts/spagetlink14^
 
 # Real Estate, Immo
 ||rs6.net^
