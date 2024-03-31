@@ -800,7 +800,7 @@
 # Vodafone
 @@|fc.vodafone.de^$important
 
-# WhatsApp
+# App
 @@|chat.cdn.whatsapp.net^$important
 @@|g.whatsapp.net^$important
 @@|media-muc2-1.cdn.whatsapp.net^$important
@@ -810,6 +810,7 @@
 @@|web.whatsapp.com^$important
 @@|whatsapp.com^$important
 @@|whatsapp.net^$important
+@@|dit.whatsapp.net^$important
 
 # Wikipedia
 @@|wikipedia.org^$important
