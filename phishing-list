@@ -8,6 +8,7 @@
 /apotheke\.(html|php)/
 /bitcoin\.html/
 /redirect\.html/
+/investieren\.html/
 /track\-url/
 /campaigns/
 /spagetlink*/
@@ -17,6 +18,7 @@
 /(^|-)?(kredit|finanz).*/
 /investment\.html\?ok\=/
 /tl-track18/
+
 
 ||194.53.136.251
 
@@ -126,7 +128,8 @@
 ||dikav.yachts^
 ||bahujanbazaar.in^
 ||aatl.com.ng^
-
+||tekmatch.org^
+||adeojoandassociates.com^
 
 
 # Cloud
