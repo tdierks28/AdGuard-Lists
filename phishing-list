@@ -26,7 +26,13 @@
 /click-ecom\d+/
 /shopping\d+/
 /i1285/
+/redirect\.html/
 
+||presenternals.com^
+||angebotsprofi.de^
+||planationally.com.se^
+||news.matchtipps.de^
+||admonths.support^
 ||in.net.fikllks.de^
 ||cineb.cam^
 ||flixhq.vip^
