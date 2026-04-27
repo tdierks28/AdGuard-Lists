@@ -1,0 +1,52 @@
+## phishing-patterns
+# Regex-Filter und TLD-Wildcards
+# WARNUNG: TLD-Wildcards (||*.tk^ etc.) blockieren ALLE Domains der TLD
+# Vor Aktivierung prüfen, ob das gewünscht ist
+# Stand: 2026-04-27
+#
+# ENTFERNT (zu generisch, viele False Positives):
+#   /campaigns/
+#   /i1285/
+#   /i186/
+#   /i96/
+#   /track\-url/
+#   /xxx/
+#   /clicks?/
+#   /^track./
+#   /^\d+$/
+
+||*.tk^
+||*.xyz^
+||*.top^
+||*.love^
+||*.com.br^
+||*.cfd^
+||*.fun^
+||*.xn^
+
+/.*storage\.googleapis\.com\/.*\.html\#\/.*/
+/(|-)?(kredit|finanz).*/
+/(|-)?pillen.*/
+/apotheke\.(html|php)/
+/bitcoin\.html/
+/click-ecom\d+/
+/conaydenk\.html/
+/firstbestshop\d+/
+/inc-stories\d+/
+/novlester\d+/
+/shopping\d+/
+/spagetlink\d+/
+/tl-track\d+/
+/einkommen/
+/teens?/
+/porno?/
+/diskret/
+/bitcoin/
+/millionaere?/
+/reichtum/
+/versand24/
+/^promo/
+/generika/
+/freierwille/
+/liebesleben/
+/investier/
