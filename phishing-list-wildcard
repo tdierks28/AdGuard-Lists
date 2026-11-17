@@ -3,5 +3,9 @@
 # Für pfBlockerNG mit aktiviertem 'Wildcard Blocking (TLD)': ein Eintrag sperrt auch alle Subdomains
 # Ohne Wildcard-Funktion (z.B. hosts-Datei) sperrt ein Eintrag nur genau diese Domain
 # Automatisch erzeugt vom Spam-Exporter, nicht von Hand bearbeiten
-# Stand: 2026-11-17, 0 Domains
+# Stand: 2026-11-17, 4 Domains
 
+abteilunge.de
+dm-data.com
+stcecyten.org
+storm-lc.com
