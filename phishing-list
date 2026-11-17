@@ -1,17 +1,21 @@
 ## phishing-list
 # Verdächtige Domains aus E-Mail-Phishing/Spam
 # Nicht: Tracking, Marketing-Newsletter, legitime Firmen
-# Stand: 2026-04-27 (bereinigt: dedupliziert, legitime entfernt, Tracking ausgegliedert)
+# Stand: 2026-11-17, zuletzt ergänzt durch Spam-Exporter
 # Format: AdGuard Home / PiHole kompatibel
 
+350hao.com
+4228061.email.netsuite.com
 4b.auctionmobility.com
 65ng4s6g4sf.storage.googleapis.com
 88nb.cc
 8bit.net.id
+9gswdc.com
 a1.affsiners.de
 aatl.com.ng
 ab.mtdvanities.com
 abaad.in
+abcdesign99.com
 aberwell.com
 acb.vernouillet.free.fr
 aceiterala23.com
@@ -30,6 +34,7 @@ ahorraentucalzadodeseguridad.com
 airversand.nl
 aj.gshs.xyz
 aj2563.bid
+aleksgulan.com
 alfarte.de
 alfreds.gay
 allser.yachts
@@ -80,6 +85,7 @@ bahnbahn.duckdns.org
 bahsgog.store
 bahujanbazaar.in
 bai-si.com
+bai5du.com
 balifamilyparadisetours.com
 balimemorialtrust.org
 balloonbunches.ca
@@ -92,7 +98,6 @@ bestrelationsdigital.de
 bicsl.com
 bindymorris.com
 biplasokase.site
-bit.ly
 bitcoin-rausch.nl
 bitcoinmillionaer.nl
 bitcoinsinvestment.nl
@@ -223,6 +228,7 @@ drl.com.pk
 droughout.me
 druckerfachmann.de
 dubuque.biscartemic.org
+dywy69569394.com
 e.walloship.babia-gora.pl
 ea.pstmrk.it
 ea.verwendn.de
@@ -284,11 +290,13 @@ fuerstlichversand.nl
 funapotheke.nl
 gadgetwarehousebd.com
 gallesare.de
+games89.sbs
 gate2stars.info
 gc.cahyono.web.id
 geileweine.de
 gen.zugrif.de
 generisch24.nl
+gerclub.homes
 gerlisot.com
 gersd.de
 gerubpe.store
@@ -321,6 +329,7 @@ herkkumurunen.fi
 herlower.com
 herrenapo.nl
 hill-heizoel.de
+hiringview.com
 hj.technologieuationen.de
 hm.ru
 hnt.beherrscht.de
@@ -335,6 +344,7 @@ howtomeasurecobb.com
 hs-26710266.f.hu
 hs-26710266.s.hubspotemail-eu1.net
 html-ouyisport.com
+huixiahuishou.com
 huiyingjr.com
 hyland.com
 hynametall.de
@@ -359,6 +369,7 @@ incominsilon.de
 individuals.stcecyten.org
 info.afterallrain.com
 info.horadeldia.com
+info.therapysites.com
 inn-bike.at
 investment.queenarwa.com
 inztyse.space
@@ -373,6 +384,7 @@ ivoags.store
 ixotu.net
 j2.co.za
 jaisnere.site
+jia120.com
 jio.abteilunge.de
 jnd.landexperts.in
 jnhbgvfsxdcfvg.blob.core.windows.net
@@ -383,11 +395,11 @@ jpe.acusync.org
 jrlw.incomeinsuranceusa.info
 jsn.begeistere.de
 jsn.gdinversiones.cl
+jubileegrace.com
 jvc.stcecyten.org
 jx.baczid.site
 kakinienterprises.com
 kelfoods.net
-kh.topbusinessportal.de
 khs.storm-lc.com
 klaviyo.com
 klclick.com
@@ -480,6 +492,7 @@ newyorktimesinfo.com
 nhs26.com
 njs.sinnyboy.com
 nke.atech.co.nz
+nkyy17.com
 nomnomcrunch.com
 notes.boundlocal.com
 notification.intuit.com
@@ -549,8 +562,10 @@ psicologosenmaracaibo.com
 publidesing.com
 pukaardilsediltak.com
 pulawy.pl
+qiye01.com
 qliqjrl.earningssafeguardusa.org
 qsh.at
+qthshtjc.com
 r20.rs6.net
 radautiulcivic.ro
 radioatlantidatarija.com
@@ -594,6 +609,7 @@ savanner.online
 schaufenster-kino.de
 schools.stcecyten.org
 scrollhelp.site
+sddfbzd.com
 secureclick.net
 seemaltd.co.ke
 send24.pl
@@ -618,7 +634,7 @@ sicheronlineversand.nl
 simg.io
 skcs-india.xyz
 sksingh4bjp.com
-sl.unserekreativeloesungen.de
+sls1688.com
 smartapo.nl
 smartfx.com
 smartverschickt.nl
@@ -646,6 +662,7 @@ summitstrengthandconditioning.com
 svs.linderune.de
 systemzumreichtum.nl
 t.newsletters.kiehls.com
+tai81.com
 talentus.app
 tantor.com.tr
 tareeqalghaith.com
@@ -666,6 +683,7 @@ tgmaxtraffic.com
 theartistbookbymiquelbarcelo.us21.list-manage.com
 thenitroinfotech.com
 thepropheticfaith.com
+therapysites.com
 tinkr.co.nz
 todoenconcretogt.com
 tonercompatibleclo.com
@@ -684,6 +702,7 @@ tropical.com
 truegospelchurch.co.za
 trustedguenstig.nl
 tryagencies.com
+tullya.com
 tumor.stcecyten.org
 turkkale.com
 turnastile.com
@@ -725,6 +744,7 @@ voyage.voitureactu.com
 vozentervirtual.com
 vt.gistallse.hz.cz
 waveandwaves.com
+wdtechdigital.com
 web-cursos.es
 website-ouyitiyu.com
 websteriletechnologies.com
@@ -734,6 +754,7 @@ weldrywall.com.br
 weltsparer-online.de
 werbecar.de
 whatsalon.co.uk
+will-billing.website
 winkersame.de
 wisebond.org
 workea.eu
@@ -742,7 +763,10 @@ wrestivar.net
 wrotestige.marketing
 wunsch.net
 www.138shops.com
+www.350hao.com
 www.4waende-wiesbaden.de
+www.9gswdc.com
+www.abcdesign99.com
 www.aberwell.com
 www.abteilunge.de
 www.ahorraentucalzadodeseguridad.com
@@ -759,6 +783,7 @@ www.ausverkaufe.de
 www.awin1.com
 www.baczid.site
 www.bahsgog.store
+www.bai5du.com
 www.begeistere.de
 www.binhous.cfd
 www.biplasokase.site
@@ -775,6 +800,7 @@ www.devahotels.de
 www.diskretgeschenk.info
 www.distritok.com
 www.dr%c3%bcckgl%c3%bcck.de
+www.dywy69569394.com
 www.einfachspass.nl
 www.emailonacid.com
 www.endlichdiskreter.nl
@@ -786,6 +812,7 @@ www.feucht.nl
 www.findwebse.com
 www.freieronlinewille.nl
 www.gakloe.cfd
+www.games89.sbs
 www.geldmachtschoen.nl
 www.gesunderverstand.nl
 www.gesundzollfrei.nl
@@ -805,12 +832,15 @@ www.hartimleben.nl
 www.hierversand.nl
 www.himinnj.com
 www.hochwerti.de
+www.huixiahuishou.com
 www.ieoptmo.com
 www.ihr-reiches-leben.de
 www.ihrhoehepunkt.nl
 www.ijk88.com
 www.irtuans.store
 www.ivoags.store
+www.jia120.com
+www.jubileegrace.com
 www.klinischee.de
 www.konzertee.de
 www.kraemergmbh.de
@@ -827,6 +857,7 @@ www.meistente.de
 www.mitteldesmannes.nl
 www.mittelfueralle.nl
 www.myxhtz.com
+www.nkyy17.com
 www.onlinefreierwille.nl
 www.onlineliebesleben.nl
 www.optedouted.com
@@ -838,6 +869,8 @@ www.plaiskon.de
 www.poelue.sbs
 www.prajite.com
 www.publicnicksunrisesciencea.fun
+www.qiye01.com
+www.qthshtjc.com
 www.rapidfirelevelracer.sbs
 www.realeapotheke.info
 www.realeapotheke.nl
@@ -857,17 +890,20 @@ www.schlple.xyz
 www.schlusbe.de
 www.schluske.de
 www.schlusue.de
+www.sddfbzd.com
 www.sichereinvestiermoeglichkeit.nl
 www.sicherestebestellung.nl
 www.sicherne.de
 www.sihe.ch
 www.silvapetssilvanshop.cfd
+www.sls1688.com
 www.speedysurferwildforce.shop
 www.stadtwerke-kempen.de
 www.stecktte.de
 www.stormrideradventurer.cfd
 www.stormrideradventurercutf.click
 www.superblazingstarstormer.art
+www.tai81.com
 www.technologieuationen.de
 www.thamm.de
 www.unsichtba.de
@@ -888,19 +924,25 @@ www.workea.eu
 www.xn--80akrvs1c.xn
 www.xpresspv.com.br
 www.yagsep.site
+www.yz58848580.com
+www.zcafe.online
 www.zeitplane.de
 www.zenfige.my
 www.zollfreieruebergang.nl
 www.zollfreieuebrall.nl
 www.zugrif.de
+www.zzeus.org.uk
 xxxpornteen.com
 yagsep.site
 yamaani.org
 yunfangyu9.com
 yv.evostrix.co.uk
+yz58848580.com
 z2b9ypks.r.us-east-1.awstrack.me
 zc.lojaphotonow.com.br
+zcafe.online
 zf.thesparklebar.com
 zgdlzb.nigeries.me.uk
 zohoinsights.com.au
 zor.ixedien.com
+zzeus.org.uk
