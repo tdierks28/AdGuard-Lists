@@ -2,7 +2,7 @@
 ! Phishing- und Spam-Domains im Adblock-Format für AdGuard Home und Pi-hole
 ! ||domain^ sperrt die Domain und alle ihre Subdomains
 ! Erzeugt vom Spam-Exporter aus phishing-list und phishing-list-wildcard, nicht von Hand bearbeiten
-! Stand: 2026-11-17, 939 Regeln
+! Stand: 2026-11-17, 929 Regeln
 
 ||350hao.com^
 ||4228061.email.netsuite.com^
@@ -17,6 +17,7 @@
 ||abaad.in^
 ||abcdesign99.com^
 ||aberwell.com^
+||abteilunge.de^
 ||acb.vernouillet.free.fr^
 ||aceiterala23.com^
 ||acroecius.com.de^
@@ -29,7 +30,6 @@
 ||aejmlyuldr.cloudimg.io^
 ||afterallrain.com^
 ||afxeaza.shop^
-||age.stcecyten.org^
 ||ahorraentucalzadodeseguridad.com^
 ||airversand.nl^
 ||aj.gshs.xyz^
@@ -108,6 +108,7 @@
 ||bobsbonsai.com^
 ||boleslawiec.pl^
 ||boletines.govisystem.org^
+||bounce.erfahrungen.app^
 ||bpl.kr^
 ||brennstoff-versand.de^
 ||bs.habunhe.space^
@@ -115,7 +116,6 @@
 ||bubble.io^
 ||carlosrecomienda.com^
 ||carpnature.nl^
-||cdn.dm-data.com^
 ||cdn.sa-tech.de^
 ||cdn.sh^
 ||cdn02.plentymarkets.com^
@@ -215,6 +215,7 @@
 ||distrisoftt.com^
 ||dk-software.es^
 ||dl.issat.org.pe^
+||dm-data.com^
 ||doktorversand.info^
 ||doktorversand.nl^
 ||dokversand.nl^
@@ -233,7 +234,6 @@
 ||ea.verwendn.de^
 ||earningssafeguardusa.org^
 ||earsecurityandsafetyqa.info^
-||easily.stcecyten.org^
 ||ebbd4f502b.nxcli.io^
 ||ecodation.com^
 ||ecofriend-group.com^
@@ -249,11 +249,11 @@
 ||emperakorum.com^
 ||ep.aetherdesignca.com^
 ||epedals.eu^
+||erfahrungen.app^
 ||eshasisrefi.tk^
 ||eshoppers.click^
 ||eu-west-1.awstrack.me^
 ||eu.ads-hotel.gb.net^
-||eu.dm-data.com^
 ||eunbs.com^
 ||eutracking.nl^
 ||exelences.de^
@@ -356,7 +356,6 @@
 ||ihr-neuer-reichtum.nl^
 ||ihregenerikas.nl^
 ||ihrversand24.nl^
-||ijs.storm-lc.com^
 ||ileo-gsm.com^
 ||images.conversionmediabackend.com^
 ||imdgt.net^
@@ -364,7 +363,6 @@
 ||imranrafiq.com^
 ||in.net.fikllks.de^
 ||incominsilon.de^
-||individuals.stcecyten.org^
 ||info.afterallrain.com^
 ||info.horadeldia.com^
 ||info.therapysites.com^
@@ -383,7 +381,6 @@
 ||j2.co.za^
 ||jaisnere.site^
 ||jia120.com^
-||jio.abteilunge.de^
 ||jnd.landexperts.in^
 ||jnhbgvfsxdcfvg.blob.core.windows.net^
 ||johnstonfinearts.com^
@@ -394,11 +391,9 @@
 ||jsn.begeistere.de^
 ||jsn.gdinversiones.cl^
 ||jubileegrace.com^
-||jvc.stcecyten.org^
 ||jx.baczid.site^
 ||kakinienterprises.com^
 ||kelfoods.net^
-||khs.storm-lc.com^
 ||klaviyo.com^
 ||klclick.com^
 ||kn.clubsportuno.com^
@@ -440,6 +435,7 @@
 ||mahuranacademy.com^
 ||mail-access.co^
 ||mail-images.propstack.de^
+||mail.erfahrungen.app^
 ||mailer.auctionmobility.com^
 ||mailinblue.com^
 ||mailings.finanzselect-online.de^
@@ -457,7 +453,6 @@
 ||messe-event-bau.de^
 ||mestercadok.hu^
 ||met.klinischee.de^
-||mighty.stcecyten.org^
 ||minhalacademy.org^
 ||momix.mom^
 ||moneymasterys.blog^
@@ -506,7 +501,6 @@
 ||ogabhd.store^
 ||oikovosconsultores.com.mx^
 ||okta.com^
-||ope.storm-lc.com^
 ||orangeearth.ro^
 ||orgill.com^
 ||osilijejakovljevica.ba^
@@ -524,7 +518,6 @@
 ||performanceshq.com^
 ||pfnetworkschools.org^
 ||pharactivities.com^
-||photo.stcecyten.org^
 ||pillenapotheke.shop^
 ||pisz.pl^
 ||planationally.com.se^
@@ -605,7 +598,6 @@
 ||sarsfez.store^
 ||savanner.online^
 ||schaufenster-kino.de^
-||schools.stcecyten.org^
 ||scrollhelp.site^
 ||sddfbzd.com^
 ||secureclick.net^
@@ -647,9 +639,11 @@
 ||srbiazbi.lat^
 ||ss-inf.net^
 ||stadtwerke-kempen.de^
+||stcecyten.org^
 ||stichtingvriendenvanhandicart.file.force.com^
 ||stichtingvriendenvanhandicart.my.salesforce.com^
 ||stopbullyingkansas.org^
+||storm-lc.com^
 ||strictlydigital.net^
 ||student.ateneo.edu^
 ||stufftinyhumanssay.com^
@@ -669,7 +663,6 @@
 ||taxiachterveld.nl^
 ||td.agenciesapp.com^
 ||td.b2b-email.com^
-||td.dm-data.com^
 ||td.minsados.ma^
 ||td.quotesoffice.com^
 ||td.service-quotes.net^
@@ -693,7 +686,6 @@
 ||tr65622933.central-telefonica.es^
 ||track.mdrctr.com^
 ||trade-affairs.com^
-||travelers.stcecyten.org^
 ||tribhuvanbabu.com^
 ||trk-alter.aleirina.com^
 ||tropical.com^
@@ -701,7 +693,6 @@
 ||trustedguenstig.nl^
 ||tryagencies.com^
 ||tullya.com^
-||tumor.stcecyten.org^
 ||turkkale.com^
 ||turnastile.com^
 ||tuteam.co.il^
@@ -766,7 +757,6 @@
 ||www.9gswdc.com^
 ||www.abcdesign99.com^
 ||www.aberwell.com^
-||www.abteilunge.de^
 ||www.ahorraentucalzadodeseguridad.com^
 ||www.airelibre.com^
 ||www.aktiva-immobilien.de^
